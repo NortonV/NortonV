@@ -9,4 +9,3 @@
 
 <p allign = "center">
   <img src="https://wakatime.com/share/@b378d2d4-52d5-4f37-bf7f-f9b557a02c75/4c24e7a1-3153-41d9-89d7-902a517f6fbb.svg">
-<\p>
