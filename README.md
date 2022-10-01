@@ -3,7 +3,7 @@
 <details>
   <summary>Github Statistics...</summary>
     <p allign="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=NortonV&theme=blue-green" allign = "center">
+      <img src="https://github-readme-stats.vercel.app/api?username=NortonV&theme=tokyonight" allign = "center">
     </p>
 </details>
 <details>
